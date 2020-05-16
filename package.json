@@ -1,0 +1,29 @@
+{
+  "name": "kennismaking-bootstrap",
+  "version": "1.0.0",
+  "description": "Kennismaking Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruvu007/Kennismaking-bootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "FRO",
+    "Ruben",
+    "Vuurman"
+  ],
+  "author": "Ruben Vuurman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruvu007/Kennismaking-bootstrap/issues"
+  },
+  "homepage": "https://github.com/ruvu007/Kennismaking-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
